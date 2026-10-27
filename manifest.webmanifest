@@ -1,14 +1,14 @@
 {
- "name": "Неделя",
- "short_name": "Неделя",
+ "name": "Septima",
+ "short_name": "Septima",
  "description": "Планер на неделю, работает без интернета",
  "lang": "ru",
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
  "orientation": "portrait",
- "background_color": "#EEF2F1",
- "theme_color": "#2D6A5E",
+ "background_color": "#EDF0F3",
+ "theme_color": "#EDF0F3",
  "shortcuts": [
   {
    "name": "Новая задача",
