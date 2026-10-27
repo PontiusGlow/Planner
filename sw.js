@@ -1,4 +1,4 @@
-const V="nedelya-1.1-2026.10.27-193153",FONTS="nedelya-fonts";
+const V="nedelya-1.1-2026.10.27-193239",FONTS="nedelya-fonts";
 const SHELL=["./","./index.html","./manifest.webmanifest","./icon-180.png","./icon-192.png","./icon-512.png","./icon-maskable-512.png"];
 self.addEventListener("install",e=>{e.waitUntil(caches.open(V).then(c=>c.addAll(SHELL)))});
 self.addEventListener("message",e=>{if(e.data==="skip")self.skipWaiting()});
