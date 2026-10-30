@@ -1,4 +1,4 @@
-const V="nedelya-1.5.2.0-2026.10.29-171108",FONTS="nedelya-fonts",META="nedelya-meta";
+const V="nedelya-1.5.3.0-2026.10.30-134703",FONTS="nedelya-fonts",META="nedelya-meta";
 const SHELL=["./","./index.html","./manifest.webmanifest","./icon-180.png","./icon-192.png","./icon-512.png","./icon-maskable-512.png"];
 /* an update is used only after «Обновить»: the version the person agreed to is remembered ("approved"), and pages keep
    coming from it even if the browser switches to the new worker by itself (pulling the page down, app closed and reopened) */
